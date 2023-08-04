@@ -1,0 +1,6 @@
+#pragma once
+
+#define VIAL_KEYBOARD_UID {0xCC, 0xD5, 0xC0, 0x1C, 0x64, 0xB6, 0x49, 0x5F}
+#define DYNAMIC_KEYMAP_LAYER_COUNT 14
+#define USB_POLLING_INTERVAL_MS 1
+
