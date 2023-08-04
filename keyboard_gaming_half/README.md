@@ -6,6 +6,6 @@ A handwired, ortho keyboard for the left hand, designed to be as slim as possibl
 - height with rubber feet and my low profile keycaps: 2cm
 
 ## pictures
-![front](front.jpg)
+![top](top.jpg)
 ![side](side.jpg)
 ![back](back.jpg)
