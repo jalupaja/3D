@@ -1,7 +1,8 @@
 # Void Ergo stand
+> not tested
 
 Stand to put the Void Ergo S (https://www.printables.com/model/347525-void-ergo-s) on an angle using magnets.
-I have not tested the magnet part yet and as you can see in the pictures, the angle is not quite right...
+The pictures are from the previous version as the new version is not tested yet.
 
 ## specs
 - height: 5cm
