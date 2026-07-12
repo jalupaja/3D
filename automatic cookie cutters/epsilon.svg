@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1016"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="epsilon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1018"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.28"
+     inkscape:cx="159.375"
+     inkscape:cy="751.5625"
+     inkscape:window-width="2496"
+     inkscape:window-height="1391"
+     inkscape:window-x="30"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1013" />
+  <g
+     inkscape:label="CC"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 72.965662,172.75765 -4.57946,-0.58544 -4.47128,-1.75709 -4.13903,-2.75515 -3.47452,-3.47374 -5.59168,5.32381 4.64643,4.52537 5.41654,3.24761 6.10938,1.9567 6.72237,0.65215 8.51759,-1.10469 6.28195,-3.31431 2.23564,-2.42882 1.59689,-2.86847 1.27751,-7.05412 -0.98389,-5.37738 -2.95424,-4.41874 -4.52537,-3.10131 -5.59168,-1.42406 v -0.10638 l 5.0714,-1.38439 3.92783,-2.87492 2.47517,-4.03291 0.8242,-4.85814 -1.34448,-6.24228 -4.03085,-4.88467 -6.26906,-3.19455 -7.9458,-1.06476 -6.26392,0.61557 -5.42426,1.84698 -4.58461,3.07787 -3.74754,4.30902 6.8151,4.68506 2.66062,-3.23756 3.07787,-2.31265 3.49512,-1.38749 3.91753,-0.46258 4.27296,0.5723 3.1268,1.71691 1.91627,2.66217 0.63875,3.51366 -1.03797,4.206 -3.11393,2.92823 -5.80288,1.67698 -9.10483,0.55891 v 7.18754 l 12.193,1.06476 3.58012,1.33083 2.64774,1.96983 1.59689,2.71523 0.53315,3.56724 -0.70572,4.12589 -2.11459,3.1147 -3.38179,1.91652 -4.39144,0.63876 v 0"
+       style="font-family:Arimo;-inkscape-font-specification:'Arimo, Normal';fill:none;stroke:#000000;stroke-width:0.263414;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path105058" />
+    <g
+       aria-label="ε"
+       id="text86525"
+       style="font-size:42.3333px;line-height:1.25;stroke-width:0.10227189;fill:none;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(2.5870583,0,0,2.5870583,-241.26785,-35.963591)" />
+  </g>
+</svg>
